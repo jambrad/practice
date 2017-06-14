@@ -5,4 +5,8 @@ public class Test{
 		System.out.print("Hello World");
 	}
 
+	public String chanFunction(){
+		return "home/index";
+	}
+
 }
