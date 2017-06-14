@@ -9,4 +9,8 @@ public class Test{
 		return "home/index";
 	}
 
+	public String francisFunction(){
+		//TODO france buhata ni pls
+	}
+
 }
