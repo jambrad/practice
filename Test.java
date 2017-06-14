@@ -18,8 +18,10 @@ public class Test{
 
 
 	public String francisFunction(){
-		//TODO france buhata ni pls
-		return "blah blah blah";
+		int t = 3;
+		int r = 2;
+		int area = t * r;
+		return String.valueOf(area);
 	}
 
 
