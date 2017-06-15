@@ -3,8 +3,12 @@ import java.lang.*;
 public class Test{
 
 	int value;
+	int value2;
+	int value3;
 	public Test(){
 		value =1;
+		value2 =2;
+		value3 =3;
 	}
 	public static void main(String args[]){
 		System.out.print("Hello World");
@@ -20,9 +24,12 @@ public class Test{
 	public int francisFunction(){
 		//TODO france buhata ni pls fuckme
 		int value=2;
-		value=1+2+3;
+		value=value+value2+value3;
 		return value;
 	}
 
+	public String MaskiUnsa(){
+		return "kdalfsklajfjlsadjkfjjaljfkljdljlfjljasdkbflksvdbajbdvljbajkshehrhaejf";
+	}
 
 }
