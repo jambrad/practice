@@ -17,9 +17,11 @@ public class Test{
 	}
 
 
-	public String francisFunction(){
-		//TODO france buhata ni pls
-		return "blah blah blah";
+	public int francisFunction(){
+		//TODO france buhata ni pls fuckme
+		int value=2;
+		value=1+2+3;
+		return value;
 	}
 
 
