@@ -18,6 +18,13 @@ public class Test{
 		}
 		break;
 		//wa ko kaybaw na
+
+		if(migo instanceof hasi.class){
+			//mag dota
+		}else{
+			//mag tuon
+		}
+
 		return bitch;
 	}
 
