@@ -13,6 +13,11 @@ public class Test{
 	public String chanFunction(){
 		String bitch = "bitch";
 		//bitch asssss
+		for (int i = 0; i < 69; i++) {
+			System.out.println(i);
+		}
+		break;
+		//wa ko kaybaw na
 		return bitch;
 	}
 
