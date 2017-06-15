@@ -25,9 +25,12 @@ public class Test{
 
 		if(migo instanceof hasi.class){
 			//mag dota
-		}else{
+		}else if(dili gale){
 			//mag tuon
+		}else{
+			//lol
 		}
+
 
 		return bitch;
 	}
