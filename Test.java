@@ -17,6 +17,18 @@ public class Test{
 	public String chanFunction(){
 		String bitch = "bitch";
 		//bitch asssss
+		for (int i = 0; i < 69; i++) {
+			System.out.println(i);
+		}
+		break;
+		//wa ko kaybaw na
+
+		if(migo instanceof hasi.class){
+			//mag dota
+		}else{
+			//mag tuon
+		}
+
 		return bitch;
 	}
 
