@@ -11,8 +11,11 @@ public class Test{
 	}
 
 	public String chanFunction(){
-		return "home/index";
+		String bitch = "bitch";
+		//bitch asssss
+		return bitch;
 	}
+
 
 	public String francisFunction(){
 		//TODO france buhata ni pls
